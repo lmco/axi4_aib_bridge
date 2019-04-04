@@ -1,0 +1,3 @@
+[submodule "lib/tlrb_aib_phy"]
+	path = lib/tlrb_aib_phy
+	url = https://github.com/lmco/tlrb_aib_phy.git
